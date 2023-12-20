@@ -1,6 +1,7 @@
 ---
   java_app:
-    remote_user: root
     hosts:
       localhost:
         ansible_connection: local
+        remote_user: root
+        
