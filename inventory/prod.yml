@@ -3,5 +3,5 @@
     hosts:
       localhost:
         ansible_connection: local
-        remote_user: root
+        remote_user: jenkins
         
